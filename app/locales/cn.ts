@@ -243,7 +243,9 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: 前往公众号：**[科创i](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk4NDQ3Mg==&scene=110#wechat_redirect)**回复**密码**免费获取密码，然后点击左下角设置(/#/settings)按钮输入密码后解锁**免费使用**
+   卡顿或无响应？可能是用户量太大[点击这里私信“我要独立KEY”获得独立账号KEY使用](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk4NDQ3Mg==&scene=110#wechat_redirect)   
+    欢迎咨询或合作客服V：14749953361                                           
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
